@@ -7,15 +7,17 @@
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
-    "@mui/lab": "5.0.0-alpha.53",
+    "@mui/icons-material": "^5.15.15",
+    "@mui/lab": "5.0.0-alpha.131",
     "@mui/material": "next",
     "react": "latest",
-    "react-dnd": "14.0.4",
-    "react-dnd-html5-backend": "14.0.2",
+    "react-dnd": "~16.0.1",
+    "react-dnd-html5-backend": "~16.0.1",
     "react-dom": "latest",
     "react-scripts": "latest"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "typescript": "latest"
   },
   "scripts": {
